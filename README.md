@@ -70,7 +70,7 @@ export default {
 
 | 属性        |类型         |   参数                                   |  说明    |
 | ----------- |------------| ---------------------------------------- |----------|
-|   imgdata  |Array,Object| Array:['http://src','http://src'];Object ||
+|   imgdata|Array,Object| Array:['http://src','http://src'];Object ||
 |   props    |Object|"thumbnail":缩略图的数据对象属性，"original":原图的数据对象属性 |仅imgdata属性为Object可用|
 |   width    |Number||缩略图的宽度|
 |   height   |Number||缩略图的高度|
