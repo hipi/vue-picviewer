@@ -5,8 +5,8 @@
 
 ### 项目中引入
 ```vue
-import Picview from 'vue-marquee-ho';
-import Css from 'vue-marquee-ho/dist/vue-marquee.min.css'
+import Picview from 'vue-picview';
+import Css from 'vue-picview/dist/vue-picview.min.css'
 export default {
   name: 'app',
   components:{
