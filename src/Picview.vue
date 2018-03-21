@@ -41,6 +41,8 @@ export default {
     methods: {
         picsee(src) {
             this.picsrc = src;
+            this.scale = 1;
+            this.roted = 0;
             this.$refs.pop.style.display = "block";
             let img = new Image();
             img.src = src;

@@ -75,3 +75,4 @@ export default {
 |width|Number||缩略图的宽度|
 |height|Number||缩略图的高度|
 ### 效果
+![img](https://github.com/chenyeah/vue-picview/raw/master/docs/demo.gif)
