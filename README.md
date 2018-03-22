@@ -1,5 +1,13 @@
 # vue-picview
-> A Vue component to picture view
+> A Vue component to picture view  
+
+
+<p align="center">
+  <a href="https://npmcharts.com/compare/vue-picview?minimal=true"><img src="https://img.shields.io/npm/dm/vue-picview.svg" alt="Downloads"></a>
+  <a href="https://www.npmjs.com/package/vue-picview"><img src="https://img.shields.io/npm/v/vue-picview.svg" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/vue-picview"><img src="https://img.shields.io/npm/l/vue-picview.svg" alt="License"></a>
+</p>
+
 # 使用组件
 通过```npm install vue-picview -save``` 安装到相应的项目下或者```yarn add vue-picview```
 
