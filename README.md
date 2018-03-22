@@ -1,5 +1,5 @@
 # vue-picview
-> A Vue component to picture view  
+> A Vue component to picture view
 
 
 <p align="center">
@@ -80,7 +80,7 @@ export default {
 | ----------- |------------| ---------------------------------------- |----------|
 |imgdata|Array,Object| Array:['http://src','http://src'];Object ||
 |props|Object|"thumbnail":缩略图的数据对象属性，"original":原图的数据对象属性 |仅imgdata属性为Object可用|
-|width|Number||缩略图的宽度|
-|height|Number||缩略图的高度|
+|width|String||缩略图的宽度|
+|height|String||缩略图的高度|
 ### 效果
 ![img](https://github.com/chenyeah/vue-picview/raw/master/docs/demo.gif)
