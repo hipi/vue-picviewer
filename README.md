@@ -8,7 +8,7 @@
   <a href="https://www.npmjs.com/package/vue-picview"><img src="https://img.shields.io/npm/l/vue-picview.svg" alt="License"></a>
 </p>
 
-# Install
+### Install
 通过```npm install vue-picview -save``` 安装到相应的项目下或者```yarn add vue-picview```
 
 ### How to use
