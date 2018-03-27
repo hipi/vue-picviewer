@@ -8,10 +8,10 @@
   <a href="https://www.npmjs.com/package/vue-picview"><img src="https://img.shields.io/npm/l/vue-picview.svg" alt="License"></a>
 </p>
 
-# 使用组件
+# Install
 通过```npm install vue-picview -save``` 安装到相应的项目下或者```yarn add vue-picview```
 
-### 项目中引入
+### How to use
 ```vue
 import Picview from 'vue-picview';
 import Css from 'vue-picview/dist/vue-picview.min.css'
@@ -82,5 +82,5 @@ export default {
 |props|Object|"thumbnail":缩略图的数据对象属性，"original":原图的数据对象属性 |仅imgdata属性为Object可用|
 |width|String||缩略图的宽度|
 |height|String||缩略图的高度|
-### 效果
+### Example
 ![img](https://github.com/chenyeah/vue-picview/raw/master/docs/demo.gif)
