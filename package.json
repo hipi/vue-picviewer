@@ -2,7 +2,7 @@
   "name": "vue-picview",
   "version": "1.0.7",
   "description": "A Vue component to picview",
-  "author": "wangjuan",
+  "author": "cyea",
   "private": false,
   "license": "MIT",
   "main": "dist/vue-picview.min.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chenyeah/vue-picview.git"
+    "url": "https://github.com/chenyeah/vue-picview.git"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
