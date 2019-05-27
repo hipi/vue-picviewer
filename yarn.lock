@@ -5504,6 +5504,13 @@ vue-loader@^11.3.4:
     vue-style-loader "^2.0.0"
     vue-template-es2015-compiler "^1.2.2"
 
+vue-picviewer@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/vue-picviewer/-/vue-picviewer-1.0.9.tgz#a6e6ed9c13cd8ff5f13c4b919b7ff189ff5139fc"
+  integrity sha512-gzJBnHMJ643Q9KM50U4ny6ckZTdil4p3ljAXFCWcj0GqN843RMdqzzKkdG1GwISNI5BkhCYTzkdl4w9ZS0cTwg==
+  dependencies:
+    vue "^2.2.6"
+
 vue-style-loader@^2.0.0, vue-style-loader@^2.0.5:
   version "2.0.5"
   resolved "http://registry.npm.taobao.org/vue-style-loader/download/vue-style-loader-2.0.5.tgz#f0efac992febe3f12e493e334edb13cd235a3d22"

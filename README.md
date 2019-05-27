@@ -83,4 +83,4 @@ export default {
 |width|String||缩略图的宽度|
 |height|String||缩略图的高度|
 ### Example
-![img](https://github.com/chenyeah/vue-picviewer/raw/master/docs/demo.gif)
+![img](https://github.com/cyea/vue-picviewer/raw/master/docs/demo.gif)
