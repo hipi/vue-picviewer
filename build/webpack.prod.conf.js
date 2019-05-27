@@ -27,7 +27,7 @@ var webpackConfig = merge(baseWebpackConfig, {
    output: {
     path: config.bundle.assetsRoot,
     publicPath: config.bundle.assetsPublicPath,
-    filename: 'vue-picview.min.js',
+    filename: 'vue-picviewer.min.js',
     library: 'VuePicview',
     libraryTarget: 'umd'
   },
@@ -45,7 +45,7 @@ var webpackConfig = merge(baseWebpackConfig, {
     // extract css into its own file
     new ExtractTextPlugin({
       // filename: utils.assetsPath('css/[name].[contenthash].css')
-       filename: 'vue-picview.min.css'
+       filename: 'vue-picviewer.min.css'
     }),
     // Compress extracted CSS. We are using this plugin so that possible
     // duplicated CSS from different components can be deduped.

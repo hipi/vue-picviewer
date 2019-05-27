@@ -1,20 +1,20 @@
-# vue-picview
+# vue-picviewer
 > A Vue component to picture view
 
 
 <p>
-  <a href="https://npmcharts.com/compare/vue-picview?minimal=true"><img src="https://img.shields.io/npm/dm/vue-picview.svg" alt="Downloads"></a>
-  <a href="https://www.npmjs.com/package/vue-picview"><img src="https://img.shields.io/npm/v/vue-picview.svg" alt="Version"></a>
-  <a href="https://www.npmjs.com/package/vue-picview"><img src="https://img.shields.io/npm/l/vue-picview.svg" alt="License"></a>
+  <a href="https://npmcharts.com/compare/vue-picviewer?minimal=true"><img src="https://img.shields.io/npm/dm/vue-picviewer.svg" alt="Downloads"></a>
+  <a href="https://www.npmjs.com/package/vue-picviewer"><img src="https://img.shields.io/npm/v/vue-picviewer.svg" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/vue-picviewer"><img src="https://img.shields.io/npm/l/vue-picviewer.svg" alt="License"></a>
 </p>
 
 ### Install
-通过```npm install vue-picview -save``` 安装到相应的项目下或者```yarn add vue-picview```
+通过```npm install vue-picviewer -save``` 安装到相应的项目下或者```yarn add vue-picviewer```
 
 ### How to use
 ```vue
-import Picview from 'vue-picview';
-import Css from 'vue-picview/dist/vue-picview.min.css'
+import Picview from 'vue-picviewer';
+import Css from 'vue-picviewer/dist/vue-picviewer.min.css'
 export default {
   name: 'app',
   components:{
@@ -35,8 +35,8 @@ export default {
     </div>
   </div>
 </template>
-import Picview from "vue-picview";
-import Css from "vue-picview/dist/vue-picview.min.css";
+import Picview from "vue-picviewer";
+import Css from "vue-picviewer/dist/vue-picviewer.min.css";
 export default {
     name: "App",
     components: {
@@ -83,4 +83,4 @@ export default {
 |width|String||缩略图的宽度|
 |height|String||缩略图的高度|
 ### Example
-![img](https://github.com/chenyeah/vue-picview/raw/master/docs/demo.gif)
+![img](https://github.com/chenyeah/vue-picviewer/raw/master/docs/demo.gif)
